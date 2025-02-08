@@ -1,4 +1,4 @@
-# A simple proxy server for CORS
+# A simple node express proxy server for CORS
 
 This is a simple proxy server that can be used to enable CORS for a given API endpoint. It uses the `cors` package to handle CORS requests and the `axios` package to make HTTP requests to the API endpoint.
 
